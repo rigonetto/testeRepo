@@ -12,6 +12,7 @@ texto
 - item
 
 [ ] check no
+
 [x] check y
 
 texto
